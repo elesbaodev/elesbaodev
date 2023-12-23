@@ -13,4 +13,4 @@
    
 </div><br>
 
-Sou um estudante de <strong>Programação Competitiva</strong> 👨‍💻, atualmente em busca de aprender C++.
+Sou um estudante de <strong>Programação</strong> 👨‍💻, especialmente "Programação Competitiva", atualmente em busca de aprender C++.
